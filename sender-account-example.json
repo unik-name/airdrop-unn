@@ -1,0 +1,7 @@
+{
+    "memo": "the name of the sending crypctoaccount",
+    "address": "the public address of the sending crypctoaccount",
+    "passphrase": "the pass phrase of the sending crypctoaccount",
+    "network": "livenet",
+    "unikname": "@2:UNS_Marketing*ops"
+}
